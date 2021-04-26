@@ -30,7 +30,7 @@ Deliverable 2
 <img width="323" alt="Deliverable 2 - Sample code" src="https://user-images.githubusercontent.com/79670933/116023900-1e714680-a61b-11eb-88f8-3fa568a8926e.png">
 
 
-![Deliverable 2 - wiki_movies_df](https://user-images.githubusercontent.com/79670933/116023910-24672780-a61b-11eb-9aa1-f66b06c93af3.png)
+<img width="156" alt="Deliverable 2 - wiki_movies_df" src="https://user-images.githubusercontent.com/79670933/116024158-99d2f800-a61b-11eb-88bd-52c005291a28.png">
 
 
 
